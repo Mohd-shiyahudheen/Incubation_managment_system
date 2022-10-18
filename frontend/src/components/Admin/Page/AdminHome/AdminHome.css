@@ -1,0 +1,11 @@
+.admin-img {
+    min-height: 93vh;
+    display: flex;
+    align-items: center;
+    background-image: url(../../Page/admin.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.wlcm{
+    background-color: orangered;
+}
